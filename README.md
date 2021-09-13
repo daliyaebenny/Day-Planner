@@ -14,5 +14,5 @@ The following images shows the web application's appearance and functionality:
 HTML,CSS,JQuery,Momentjs
 
 ### Links 
-* [*GitHub repository*]()   
-* [*GitHub pages*]()
+* [*GitHub repository*](https://github.com/daliyaebenny/Day-Planner.git)   
+* [*GitHub pages*](https://daliyaebenny.github.io/Day-Planner/)
