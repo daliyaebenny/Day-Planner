@@ -8,10 +8,10 @@ Our application colors the time blocks to help the user determine past, present,
 
 The following images shows the web application's appearance and functionality:
 
-![screenshot](images/calendarApp.jpg)
+![screenshot](./assets/Screenshots/DayPlanner.png)
 
 ## Technology used
-HTML,CSS,JavaScript
+HTML,CSS,JQuery,Momentjs
 
 ### Links 
 * [*GitHub repository*]()   
